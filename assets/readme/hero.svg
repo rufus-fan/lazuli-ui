@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">lazuli-ui</title>
+  <desc id="desc">Ultramarine was ground from lapis lazuli and cost more than gold — the workflow earns its color through facts, grayscale structure, direction, and evidence from real screenshots.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#111740"/>
+      <stop offset="1" stop-color="#0A0D26"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="400" rx="28" fill="url(#bg)"/>
+
+  <!-- pyrite flecks scattered in the lapis -->
+  <g fill="#E8C27A">
+    <circle cx="622" cy="72" r="2.2" opacity="0.8"/>
+    <circle cx="660" cy="120" r="1.6" opacity="0.55"/>
+    <circle cx="636" cy="316" r="1.8" opacity="0.7"/>
+    <circle cx="18" cy="330" r="1.6" opacity="0.5"/>
+    <circle cx="1180" cy="360" r="2" opacity="0.6"/>
+    <circle cx="1150" cy="40" r="1.5" opacity="0.5"/>
+    <circle cx="40" cy="36" r="1.8" opacity="0.6"/>
+    <circle cx="600" cy="380" r="1.5" opacity="0.45"/>
+    <path d="M676 218l3 5 5-3-3-5z" opacity="0.7"/>
+    <path d="M60 210l3 5 5-3-3-5z" opacity="0.5"/>
+  </g>
+
+  <g transform="translate(64 50)">
+    <rect width="176" height="30" rx="15" fill="#1A2148" stroke="#39437A"/>
+    <circle cx="18" cy="15" r="5" fill="#2438E8"/>
+    <circle cx="18" cy="15" r="2" fill="#F2C879"/>
+    <text x="34" y="20" fill="#B7C0E8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="600">AGENT SKILL</text>
+
+    <text x="0" y="132" fill="#F2EEE3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="88" font-weight="750" letter-spacing="-4">lazuli-ui</text>
+    <text x="2" y="178" fill="#B7C0E8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500">Ultramarine was ground from lapis and cost more than gold.</text>
+
+    <g transform="translate(0 226)">
+      <text x="0" y="20" fill="#F2C879" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">facts · grayscale · direction · evidence</text>
+      <text x="0" y="56" fill="#7A85B5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15">no visual sign-off without real screenshots</text>
+    </g>
+  </g>
+
+  <!-- the studio: pigment dabs earn saturation step by step -->
+  <g transform="translate(704 55)">
+    <rect width="432" height="290" rx="20" fill="#141A3E" stroke="#2C3563" stroke-width="2"/>
+    <g transform="translate(24 22)">
+      <circle cx="7" cy="7" r="5" fill="#F06A6A"/>
+      <circle cx="27" cy="7" r="5" fill="#F2B84B"/>
+      <circle cx="47" cy="7" r="5" fill="#59D185"/>
+      <text x="312" y="12" fill="#5B639B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">the studio</text>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" text-anchor="middle">
+      <g transform="translate(54 91)">
+        <ellipse rx="11" ry="9" fill="#6B7590"/>
+        <ellipse cx="-3" cy="-3" rx="4" ry="3" fill="#8A93AC" opacity="0.8"/>
+        <text y="44" fill="#B7C0E8">facts</text>
+      </g>
+      <g transform="translate(102 91)">
+        <ellipse rx="11" ry="9" fill="#57629B"/>
+        <ellipse cx="-3" cy="-3" rx="4" ry="3" fill="#737FB2" opacity="0.8"/>
+        <text y="66" fill="#B7C0E8">focus</text>
+      </g>
+      <g transform="translate(150 91)">
+        <ellipse rx="11" ry="9" fill="#4656AC"/>
+        <ellipse cx="-3" cy="-3" rx="4" ry="3" fill="#5F71C4" opacity="0.8"/>
+        <text y="44" fill="#B7C0E8">media</text>
+      </g>
+      <g transform="translate(198 91)">
+        <ellipse rx="11" ry="9" fill="#3849BD"/>
+        <ellipse cx="-3" cy="-3" rx="4" ry="3" fill="#4F63D2" opacity="0.8"/>
+        <text y="66" fill="#B7C0E8">grayscale</text>
+      </g>
+      <g transform="translate(246 91)">
+        <ellipse rx="11" ry="9" fill="#2B3BCC"/>
+        <ellipse cx="-3" cy="-3" rx="4" ry="3" fill="#4255DE" opacity="0.8"/>
+        <text y="44" fill="#B7C0E8">build</text>
+      </g>
+      <g transform="translate(294 91)">
+        <ellipse rx="11" ry="9" fill="#2334DB"/>
+        <ellipse cx="-3" cy="-3" rx="4" ry="3" fill="#3A4CE8" opacity="0.8"/>
+        <text y="66" fill="#B7C0E8">review</text>
+      </g>
+      <!-- the ultramarine swatch, earned -->
+      <g transform="translate(358 91)">
+        <ellipse rx="17" ry="14" fill="#1D2BE0"/>
+        <ellipse cx="-6" cy="-5" rx="6" ry="4" fill="#3A4CE8" opacity="0.85"/>
+        <circle cx="6" cy="3" r="3" fill="#F2C879"/>
+        <text y="44" fill="#F2C879">lazuli</text>
+      </g>
+    </g>
+
+    <g transform="translate(26 196)">
+      <rect width="380" height="64" rx="12" fill="#0A0D26" stroke="#232B55"/>
+      <text x="18" y="26" fill="#F2C879" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">MOST EXPENSIVE COLOR GOES TO</text>
+      <text x="18" y="50" fill="#F2EEE3" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">hero screen · one focal point</text>
+      <rect x="302" y="16" width="60" height="30" rx="15" fill="#15271C"/>
+      <text x="332" y="36" fill="#72E29A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="800" text-anchor="middle">PROVEN</text>
+    </g>
+  </g>
+</svg>
